@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = BSTU Exam Master
+ProductVersion = 0.0.0.0
+URL = https://github.com/Manmadeeers/BSTU-Exam-Master/releases/download/alpha/BSTU.Exam.Master.Setup.exe
+Size = 27298063
+ReleaseDate = 23/04/2024
+SHA256 = CA10B76E4816F9D02C9BC4C67BEE728B53329B3784BE3E5140DB799149C91A94
+MD5 = 7400669e3e66bd461c3a560c0bab335b
+ServerFileName = BSTU Exam Master Setup.exe
+Flags = NoCache
+RegistryKey = HKUD\Software\KOI Software\BSTU Exam Master\Version
+Version = 0.0.0.0
