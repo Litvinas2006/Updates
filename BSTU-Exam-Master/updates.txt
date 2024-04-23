@@ -2,7 +2,7 @@
 
 [Update]
 Name = BSTU Exam Master
-ProductVersion = 0.0.0.0
+ProductVersion = 0.0.0
 URL = https://github.com/Manmadeeers/BSTU-Exam-Master/releases/download/alpha/BSTU.Exam.Master.Setup.exe
 Size = 27298063
 ReleaseDate = 23/04/2024
