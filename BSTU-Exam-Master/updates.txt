@@ -1,5 +1,19 @@
 ;aiu;
 
+[0.0.1.0]
+Name = BSTU Exam Master
+ProductVersion = 0.0.1.0
+URL = https://litvinas2006.github.io/Updates/BSTU-Exam-Master/0.0.1.0/BSTU Exam Master Setup 0.0.1.0.exe
+Size = 27303827
+ReleaseDate = 25/04/2024
+SHA256 = FA43A8C12AB6627631C87F889EE8496B9BFD1CEA08F0FE8B0BDBD1BD41B67F4F
+MD5 = e65a1ddaf701b9abe13f49638afbb65c
+ServerFileName = BSTU Exam Master Setup 0.0.1.0.exe
+Flags = Critical
+RegistryKey = HKUD\Software\KOI Software\BSTU Exam Master\Version
+Version = 0.0.1.0
+Description = Updater work
+
 [0.0.0.3]
 Name = BSTU Exam Master
 ProductVersion = 0.0.0.3
