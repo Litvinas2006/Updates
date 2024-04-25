@@ -1,13 +1,25 @@
 ;aiu;
 
+[0.0.0.3]
+Name = BSTU Exam Master
+ProductVersion = 0.0.0.3
+URL = https://litvinas2006.github.io/Updates/BSTU-Exam-Master/0.0.0.3/BSTU%20Exam%20Master%20Setup.exe
+Size = 27599741
+ReleaseDate = 25/04/2024
+SHA256 = 7041C43823EF8824C800CBA8E05C0264C786B488B957B2D0BADA25ED9BDFFBA8
+MD5 = 31b0bb89eb7cf9264eae730bf36bbcd1
+ServerFileName = BSTU Exam Master Setup.exe
+RegistryKey = HKUD\Software\KOI Software\BSTU Exam Master\Version
+Version = 0.0.0.3
+
 [0.0.0.2]
 Name = BSTU Exam Master
 ProductVersion = 0.0.0.2
 URL = https://litvinas2006.github.io/Updates/BSTU-Exam-Master/0.0.0.2/BSTU%20Exam%20Master%20Setup.exe
-Size = 27599463
+Size = 27599741
 ReleaseDate = 25/04/2024
-SHA256 = 290C0730AC620CE0CAC7B99ED12DBE8782BEC8BF632534750E6FD86C95D62839
-MD5 = cbf43b62ee0c20224ecb1fc97fddf44e
+SHA256 = 7041C43823EF8824C800CBA8E05C0264C786B488B957B2D0BADA25ED9BDFFBA8
+MD5 = 31b0bb89eb7cf9264eae730bf36bbcd1
 ServerFileName = BSTU Exam Master Setup.exe
 RegistryKey = HKUD\Software\KOI Software\BSTU Exam Master\Version
 Version = 0.0.0.2
@@ -16,10 +28,10 @@ Version = 0.0.0.2
 Name = BSTU Exam Master
 ProductVersion = 0.0.0.1
 URL = https://github.com/Manmadeeers/BSTU-Exam-Master/releases/download/alpha2/BSTU.Exam.Master.Setup.exe
-Size = 27599463
+Size = 27599741
 ReleaseDate = 24/04/2024
-SHA256 = 290C0730AC620CE0CAC7B99ED12DBE8782BEC8BF632534750E6FD86C95D62839
-MD5 = cbf43b62ee0c20224ecb1fc97fddf44e
+SHA256 = 7041C43823EF8824C800CBA8E05C0264C786B488B957B2D0BADA25ED9BDFFBA8
+MD5 = 31b0bb89eb7cf9264eae730bf36bbcd1
 ServerFileName = BSTU Exam Master Setup.exe
 RegistryKey = HKUD\Software\KOI Software\BSTU Exam Master\Version
 Version = 0.0.0.1
@@ -28,10 +40,10 @@ Version = 0.0.0.1
 Name = BSTU Exam Master
 ProductVersion = 0.0.0.0
 URL = https://github.com/Manmadeeers/BSTU-Exam-Master/releases/download/alpha2/BSTU.Exam.Master.Setup.exe
-Size = 27599463
+Size = 27599741
 ReleaseDate = 23/04/2024
-SHA256 = 290C0730AC620CE0CAC7B99ED12DBE8782BEC8BF632534750E6FD86C95D62839
-MD5 = cbf43b62ee0c20224ecb1fc97fddf44e
+SHA256 = 7041C43823EF8824C800CBA8E05C0264C786B488B957B2D0BADA25ED9BDFFBA8
+MD5 = 31b0bb89eb7cf9264eae730bf36bbcd1
 ServerFileName = BSTU Exam Master Setup.exe
 RegistryKey = HKUD\Software\KOI Software\BSTU Exam Master\Version
 Version = 0.0.0.0
